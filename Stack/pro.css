@@ -1,0 +1,67 @@
+body {
+    font-family: fantasy;
+    background-size:100%;
+    background-repeat: no-repeat;
+    max-width:100%;
+    background-color: rgb(189, 16, 16);
+  }
+  table{
+    border: 1px;
+    padding: 1,1,1,1;
+    border-color: #e0d5d5;
+    list-style-type: none;
+  }
+  header {
+    font-size: larger;
+    /* margin-inline:90px; */
+    text-decoration-color: rgb(150, 143, 143); 
+    display: flex;
+    flex-direction: row;
+    justify-content: left;
+    position:static;
+    width: 100%;
+    list-style-type: none;
+    padding-right: 5px;
+    /* padding-top: 0px; */
+  }
+.nav1{
+    margin-left: 10px;
+    margin-inline-end:5px;
+    display:flex;
+    flex-direction: row;
+    justify-content:right;
+    position: static;
+    width: 100%;
+    list-style-type:none;
+    color:rgb(204, 183, 183);
+    font-size:large;
+    font-weight: 200;
+}
+li{
+    margin-left:15px;
+    margin-right:60px;
+    color: rgb(187, 169, 169);
+}
+
+h1 {
+    margin:0;
+    list-style-type: none;
+    color: rgb(204, 183, 183);
+  }
+  nav {
+    list-style-type: none;
+    margin-inline-start:50px;
+    font-size: medium;
+  }
+  a{
+   color: black;
+   list-style-type: none;
+   text-decoration: none;
+  }
+  div{
+    padding-top: 60px;
+    padding-left:25px;
+    font-size: 250%;
+    font-weight: 50%;
+    color: #e8d6d6;
+  }

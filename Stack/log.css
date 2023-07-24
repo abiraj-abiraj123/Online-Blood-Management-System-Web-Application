@@ -1,0 +1,19 @@
+body{
+    background-image:url(Blood1.png);
+    background-size: 100%;
+    background-repeat: no-repeat;
+
+}
+fieldset{
+    background-color: white;
+    align-self: center;
+    border-radius: 20px;   
+}
+form{
+    margin-right: 70px;
+    margin-left: 100px;
+    padding-left: 12px;
+    padding-right:12px;
+    padding-bottom: 25px;
+    padding-top: 50px;
+}
